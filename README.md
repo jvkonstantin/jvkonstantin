@@ -1,4 +1,5 @@
-### Im currently working on [unnamed[tv]](https://unnamedsoftware.com) 
+### Im currently working on [unnamed[tv]](https://unnamedsoftware.com) 📺
+## also please follow my twitter i will most active there
 
 <!--
 **kappaC0dex/kappaC0dex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
